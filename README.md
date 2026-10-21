@@ -217,7 +217,7 @@ Scanned UID: AB CD 12 34
 ### Card Reading Issues
 
 | Symptom | Solution |
-|---|---|
+|---|----|
 | Card not detected | Hold it flat against the reader for 1–2 seconds |
 | Inconsistent reading | Check antenna solder joints on the MFRC522 module |
 | Wrong UID shown | Ensure correct MFRC522 library version is installed |
