@@ -325,7 +325,7 @@ Bug reports and feature requests are tracked on the [GitHub Issues](../../issues
 
 ## 📄 License
 
-© ayuuXploits. All Rights Reserved.
+© ayuxploits. All Rights Reserved.
 
 ---
 
